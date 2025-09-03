@@ -1,0 +1,10 @@
+{
+  "router_ip": "192.168.0.1",
+  "stok": "your_stok_value_here",
+  "ipv6_firewall_enable": "off",
+  "dmz_dest_ip": "192.168.0.102",
+  "dmz_dest_ip6": "240e:370:xx",
+  "server_port": "8080",
+  "dmz_enable": "1"
+}
+    
